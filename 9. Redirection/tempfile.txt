@@ -1,0 +1,5 @@
+total 8
+-rwxrwxr-x 1 vietqtran vietqtran 489 Apr 12 23:20 bash.sh
+-rw-rw-r-- 1 vietqtran vietqtran  23 Apr 12 23:07 file.txt
+-rw-rw-r-- 1 vietqtran vietqtran   0 Apr 12 23:21 tempfile.txt
+-rw-rw-r-- 1 vietqtran vietqtran   0 Apr 12 23:21 tempFile.txt

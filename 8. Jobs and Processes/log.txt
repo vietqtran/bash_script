@@ -1,0 +1,12 @@
+2025-04-12T22:59:30.095285+07:00 vietqtran com.docker.backend[5700]: [15:59:30.095228863Z][main.apiproxy         ] << GET /networks/1e1cde490219c7dd0d894c3673b29ec1f096dadd60891631501042e1fc706f77 (1.254081ms)
+2025-04-12T22:59:30.095315+07:00 vietqtran com.docker.backend[5700]: [15:59:30.094191437Z][vm.lifecycle-server.apiproxy] << GET /networks/1e1cde490219c7dd0d894c3673b29ec1f096dadd60891631501042e1fc706f77 (546.092µs)
+2025-04-12T22:59:30.095331+07:00 vietqtran com.docker.backend[5700]: [15:59:30.095293001Z][main.apiproxy         ] << GET /networks/2fedad00f1176628ce11a9f24cb5602071b5431c67262c15979656ddb2cdf1db (1.114148ms)
+2025-04-12T22:59:30.095345+07:00 vietqtran com.docker.backend[5700]: [15:59:30.094269375Z][vm.lifecycle-server.apiproxy] << GET /networks/2fedad00f1176628ce11a9f24cb5602071b5431c67262c15979656ddb2cdf1db (529.985µs)
+2025-04-12T22:59:30.095370+07:00 vietqtran com.docker.backend[5700]: [15:59:30.094272826Z][vm.lifecycle-server.apiproxy] << GET /networks/03cd7e10f490e9e4de49efd957adf58c91dc7a1865c0e0482d6367c61f15239f (509.543µs)
+2025-04-12T22:59:30.095457+07:00 vietqtran com.docker.backend[5700]: [15:59:30.094274438Z][vm.lifecycle-server.apiproxy] << GET /networks/5dbc91edf81ba1f421d1ef5c05986f5d5a0211d8c3e0b6a65286f70161141495 (471.662µs)
+2025-04-12T22:59:30.095484+07:00 vietqtran com.docker.backend[5700]: [15:59:30.095394573Z][main.apiproxy         ] << GET /networks/5dbc91edf81ba1f421d1ef5c05986f5d5a0211d8c3e0b6a65286f70161141495 (1.105782ms)
+2025-04-12T22:59:30.095507+07:00 vietqtran com.docker.backend[5700]: [15:59:30.095412005Z][main.apiproxy         ] << GET /networks/03cd7e10f490e9e4de49efd957adf58c91dc7a1865c0e0482d6367c61f15239f (1.146834ms)
+2025-04-12T22:59:30.099792+07:00 vietqtran com.docker.backend[5700]: [15:59:30.098611262Z][vm.lifecycle-server.apiproxy] << GET /containers/json?all=true (6.685338ms)
+2025-04-12T22:59:30.099889+07:00 vietqtran com.docker.backend[5700]: [15:59:30.099854342Z][main.apiproxy         ] << GET /containers/json?all=true (7.716115ms)
+2025-04-12T22:59:39.179059+07:00 vietqtran com.docker.backend[5700]: [15:59:39.178816579Z][main.ipc              ] (83a9e3b4-1289) 1e9cf152-BackendAPI S<-C 4dbceef4-time GET /time
+2025-04-12T22:59:39.179250+07:00 vietqtran com.docker.backend[5700]: [15:59:39.178900315Z][main.ipc              ] (83a9e3b4-1289) 1e9cf152-BackendAPI S->C 4dbceef4-time GET /time (81.78µs): 2025-04-12 22:59:39.178878742 +0700 +07 m=+41266.408545594
