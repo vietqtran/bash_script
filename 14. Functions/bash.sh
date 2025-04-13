@@ -25,3 +25,11 @@
 #   echo "$val"
 # }
 # foo
+
+# greet() {
+#   echo "Hello"
+# }
+# greet
+# bash -c 'greet' # fails
+# export -f greet # export function; note -f
+# bash -c 'greet' # success

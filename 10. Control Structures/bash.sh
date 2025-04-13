@@ -28,11 +28,11 @@
 #   echo "Unknown command"
 # fi
 
-arr=(
-  "hello"
-  "world"
-  "goodbye"
-)
+# arr=(
+#   "hello"
+#   "world"
+#   "goodbye"
+# )
 # for i in "${arr[@]}"; do
 #   echo "$i"
 # done
@@ -73,3 +73,9 @@ arr=(
 # for arg; do
 #   echo arg="$arg"
 # done
+
+# if [[ -e "text2.txt" ]]; then
+#   echo "file existed"
+# else
+#   echo "file not exists"
+# fi
