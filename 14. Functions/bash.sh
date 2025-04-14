@@ -33,3 +33,11 @@
 # bash -c 'greet' # fails
 # export -f greet # export function; note -f
 # bash -c 'greet' # success
+
+# fun() {
+#   local var="Sample value to be returned"
+#   echo "$var"
+# }
+# var="$(fun)"
+# echo $var
+
